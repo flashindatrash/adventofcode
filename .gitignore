@@ -1,0 +1,4 @@
+build.sh
+*.input
+.DS_store
+*/.idea/*
